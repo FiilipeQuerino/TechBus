@@ -2,8 +2,11 @@ COMO DAR COMMIT
 
 1- Abra a pasta com os arquivos alterado no cmd
 
-2- Comando: git add. (adiciona todos os aruivos alterado) ou git add nomeArquivo (enviaarquivos especificos)
+Obs: pode usar comando "git status" para ver os arquivos alterado.
+2- Comando: git add . (adiciona todos os aruivos alterado) ou git add nomeArquivo (enviaarquivos especificos)
 
 3- Comando: git commit -m "Mensagem descrevendo o que foi alterado/adicionado/removido..."
 
 4- git push 
+
+5- git push origin main
