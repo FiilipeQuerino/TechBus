@@ -10,3 +10,5 @@ Obs: pode usar comando "git status" para ver os arquivos alterado.
 4- git push 
 
 5- git push origin main
+
+6- teste
